@@ -1,5 +1,5 @@
 import React from 'react';
-import App from './App'
+import App from '../container/App'
 const SearchBox = ({searchField, searchChange}) =>{
     return (
         <div className = 'pa2'> 
